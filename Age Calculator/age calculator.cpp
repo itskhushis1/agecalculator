@@ -168,7 +168,6 @@ void drawBorder(int x=0, int y=0){
 		}
 	}
 }
-
 int main() {
 	system("cls");
 	setcursor(0,0); 
